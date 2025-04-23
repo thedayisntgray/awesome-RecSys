@@ -37,7 +37,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [WWW](https://www.iw3c2.org/) (International World Wide Web Conferences)
 
 ## 3. Researchers
-* [George Karypis](http://glaros.dtc.umn.edu/gkhome/index.php) (University of Minnesota)
+* [George Karypis](http://glaros.dtc.umn.edu) (University of Minnesota)
 * [Joseph A. Konstan](http://konstan.umn.edu/) (University of Minnesota)
 * [Philip S. Yu](https://www.cs.uic.edu/PSYu) (University of Illinons at Chicago)
 * [Charu Aggarwal](http://www.charuaggarwal.net/) (IBM T. J. Watson Research Center)
